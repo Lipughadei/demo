@@ -1,0 +1,6 @@
+---
+- name: hello
+  shell: mkdir list# tasks file for hello
+
+- name: hii
+  shell: mkdir tree
